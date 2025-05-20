@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Olá! Eu sou um desenvolvedor back-end em formação, apaixonado por tecnologia e inovação.
 
-<!--
-**Mavegui/Mavegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente curso Engenharia de Software, onde aprofundo conhecimentos em:
+- Arquitetura de software
+- Computação em nuvem
+- Inteligência artificial
+- Qualidade de software
+- Gerenciamento de projetos
 
-Here are some ideas to get you started:
+💼 Como profissional, estou focado em desenvolvimento back-end, com interesse em criar soluções robustas, escaláveis e eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Principais competências:**
+- ✅ **Python & Django** – Linguagem e framework principais atualmente.
+- ✅ **PHP & Laravel** – Experiência sólida no desenvolvimento web.
+- ✅ **APIs RESTful** – Desenvolvimento e integração de APIs.
+- ✅ **Banco de Dados** – SQL (MySQL, PostgreSQL) e NoSQL (MongoDB).
+- ✅ **JavaScript & Node.js** – Conhecimento aplicado em projetos práticos.
+- ✅ **Linux** – Usuário ativo e entusiasta do mundo open source.
+- ✅ **Inglês** – Sempre a aprimorar para atuar no mercado global.
+
+🔍 Sou um curioso nato, sempre a explorar novas tecnologias e a aprender com cada desafio.
+
