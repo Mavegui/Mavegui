@@ -1,11 +1,12 @@
 ## 👋 Olá! Eu sou um desenvolvedor back-end em formação, apaixonado por tecnologia e inovação.
 
 🎓 Atualmente curso Engenharia de Software, onde aprofundo conhecimentos em:
-- Arquitetura de software
-- Computação em nuvem
-- Inteligência artificial
-- Qualidade de software
-- Gerenciamento de projetos
+- Testes e Manutenção de Software
+- Desenvolvimento de E-commerce com CMS
+- Segurança em Engenharia de Software
+- Green It
+- Desenvolvimento Mobile
+- Projeto de Extensão III
 
 💼 Como profissional, estou focado em desenvolvimento back-end, com interesse em criar soluções robustas, escaláveis e eficientes.
 
