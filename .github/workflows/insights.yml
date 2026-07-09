@@ -20,7 +20,7 @@ jobs:
         python-version: '3.12'
 
     - name: Executando script de atualização
-      run: python update_insight.py
+      run: python update_msg.py
 
     - name: Salvar e commitar alterações no README
       run: | 
