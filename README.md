@@ -11,6 +11,9 @@ Desenvolvedor Back-End em formação, apaixonado por tecnologia, inovação e po
 <!-- Insights -->
 ### <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=white" width="24" height="24" style="vertical-align: middle; margin-bottom: 2px;"> Insights de Dev do Dia
 <!-- VARIABLE:START -->
+
+> Trabalhando...
+
 <!-- VARIABLE:END -->
 
 <!-- Faculdade - Estudos -->
