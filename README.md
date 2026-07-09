@@ -9,7 +9,7 @@
 Desenvolvedor Back-End em formação, apaixonado por tecnologia, inovação e por criar soluções robustas, escaláveis e eficientes. 
 
 <!-- Insights -->
-### <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=white" width="24" height="24" style="vertical-align: middle; margin-bottom: 2px;"> Insights de Dev do Dia
+### <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=white" width="24" height="24" style="vertical-align: middle; margin-bottom: 2px;"> Msg Dev da semana
 <!-- VARIABLE:START -->
 
 > Trabalhando...
