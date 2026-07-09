@@ -3,9 +3,9 @@ import re
 
 # Seu banco de dados de frases personalizado
 msg = [
-    "Ainda vou add mensagens aqui, lol!"
-    "Pensando ainda..."
-    "Trabalhando..."
+    "Ainda vou add mensagens aqui, lol!",
+    "Pensando ainda...",
+    "Trabalhando...",
 ]
 
 def update_readme():
