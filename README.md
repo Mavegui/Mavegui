@@ -59,7 +59,7 @@ Atualmente curso a graduação e estou aprofundando conhecimentos práticos em:
   <tr>
     <td align="center" valign="top" width="40%">
       <br><b>Nível das Linguagens</b><br><br>
-      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Mavegui&layout=donut&theme=react&hide_border=true"/>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Mavegui&layout=donut&theme=react&hide_border=true&cache_seconds=1800"/>
     </td>
     <td align="center" valign="top" width="60%">
       <br><b>Resumo de Atividades</b><br><br>
