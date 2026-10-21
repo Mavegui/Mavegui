@@ -11,6 +11,7 @@ msg = [
     "Pensou em algum projeto antes de dormir? Anote-ele!",
     "Estudando, curiosidade me move, vá estudar também agora!",
     "Atalho do dia, Alt + F4 (Não pense, apenas aperte!)",
+    "Se você não usa tema escuro ainda, você precisa de um psicólogo urgente!",
 ]
 
 def update_readme():
