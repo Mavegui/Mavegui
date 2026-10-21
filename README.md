@@ -1,5 +1,5 @@
 <!-- Titulo principal -->
-# <img src="https://api.iconify.design/lucide:hand.svg?color=white" width="32" height="32" style="vertical-align: middle; margin-bottom: 4px;"> Aoba! Eu sou o Guilherme (Mavegui)
+# <img src="https://api.iconify.design/akar-icons/victory-hand.svg?color=white" width="32" height="32" style="vertical-align: middle; margin-bottom: 4px;"> Aoba! Eu sou o Guilherme (Mavegui)
 
 <!-- Badges link's -->
 <p align="left">
@@ -9,7 +9,7 @@
 Desenvolvedor Back-End em formação, apaixonado por tecnologia, inovação e por criar soluções robustas, escaláveis e eficientes. 
 
 <!-- Insights -->
-### <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=white" width="24" height="24" style="vertical-align: middle; margin-bottom: 2px;"> Msg Dev da semana
+### <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=white" width="24" height="24" style="vertical-align: middle; margin-bottom: 2px;"> Msg Dev da semana
 <!-- VARIABLE:START -->
 
 > Ainda vou add mensagens aqui, lol!
@@ -17,18 +17,18 @@ Desenvolvedor Back-End em formação, apaixonado por tecnologia, inovação e po
 <!-- VARIABLE:END -->
 
 <!-- Faculdade - Estudos -->
-### <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=white" width="24" height="24" style="vertical-align: middle; margin-bottom: 2px;"> Engenharia de Software
+### <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=white" width="24" height="24" style="vertical-align: middle; margin-bottom: 2px;"> Engenharia de Software
 Atualmente curso a graduação e estou aprofundando conhecimentos práticos em:
 
-- <img src="https://api.iconify.design/lucide:beaker.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Testes e Manutenção de Software (Garantindo qualidade de código)
-- <img src="https://api.iconify.design/lucide:shield-check.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Segurança em Engenharia de Software (Defesa e boas práticas)
-- <img src="https://api.iconify.design/lucide:shopping-cart.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Desenvolvimento de E-commerce com CMS
-- <img src="https://api.iconify.design/lucide:smartphone.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Desenvolvimento Mobile
-- <img src="https://api.iconify.design/lucide:leaf.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Green IT & Projeto de Extensão III
+- <img src="https://api.iconify.design/lucide/beaker.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Testes e Manutenção de Software (Garantindo qualidade de código)
+- <img src="https://api.iconify.design/lucide/shield-check.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Segurança em Engenharia de Software (Defesa e boas práticas)
+- <img src="https://api.iconify.design/lucide/shopping-cart.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Desenvolvimento de E-commerce com CMS
+- <img src="https://api.iconify.design/lucide/smartphone.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Desenvolvimento Mobile
+- <img src="https://api.iconify.design/lucide/leaf.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Green IT & Projeto de Extensão III
 ---
 
 <!-- Competências -->
-### <img src="https://api.iconify.design/lucide:wrench.svg?color=white" width="24" height="24" style="vertical-align: middle; margin-bottom: 2px;"> Principais Competências
+### <img src="https://api.iconify.design/lucide/wrench.svg?color=white" width="24" height="24" style="vertical-align: middle; margin-bottom: 2px;"> Principais Competências
 
 #### Linguagens e Frameworks:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,15 +45,15 @@ Atualmente curso a graduação e estou aprofundando conhecimentos práticos em:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GenAI](https://img.shields.io/badge/GenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 
-- <img src="https://api.iconify.design/lucide:server.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Desenvolvimento Backend estruturado com APIs REST e arquitetura de sistemas.
-- <img src="https://api.iconify.design/lucide:database.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Modelagem e manipulação de Banco de Dados (SQL e NoSQL).
-- <img src="https://api.iconify.design/lucide:cloud.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Conhecimentos em Cloud Computing (AWS, GCP).
-- <img src="https://api.iconify.design/lucide:bot.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Integração e automação de soluções utilizando inteligência artificial generativa (GenAI).
+- <img src="https://api.iconify.design/lucide/server.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Desenvolvimento Backend estruturado com APIs REST e arquitetura de sistemas.
+- <img src="https://api.iconify.design/lucide/database.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Modelagem e manipulação de Banco de Dados (SQL e NoSQL).
+- <img src="https://api.iconify.design/lucide/cloud.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Conhecimentos em Cloud Computing (AWS, GCP).
+- <img src="https://api.iconify.design/lucide/bot.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Integração e automação de soluções utilizando inteligência artificial generativa (GenAI).
 
 ---
 
 <!-- Stats -->
-### <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=white" width="24" height="24" style="vertical-align: middle; margin-bottom: 2px;"> Mavegui Stats
+### <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=white" width="24" height="24" style="vertical-align: middle; margin-bottom: 2px;"> Mavegui Stats
 
 <table>
   <tr>
@@ -71,4 +71,4 @@ Atualmente curso a graduação e estou aprofundando conhecimentos práticos em:
 <br>
 
 <!-- Portfólio URL -->
-> <img src="https://api.iconify.design/lucide:globe.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Quer ver meus projetos principais em ação? Visite meu **[Portfólio Web](https://mavegui.github.io/portfolio/)**.
+> <img src="https://api.iconify.design/lucide/globe.svg?color=white" width="18" height="18" style="vertical-align: middle; margin-bottom: 2px;"> Quer ver meus projetos principais em ação? Visite meu **[Portfólio Web](https://mavegui.github.io/portfolio/)**.
